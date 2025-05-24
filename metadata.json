@@ -1,0 +1,8 @@
+{
+  "name": "Smart Krishi Nepal",
+  "description": "An application to empower Nepali farmers with knowledge, tools, and timely information to enhance productivity, mitigate risks, and promote sustainable agricultural practices. It offers features like personalized dashboards, crop calendars, weather forecasts, market prices, pest/disease diagnosis support, soil management guides, livestock health information, and a rich educational curriculum.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
